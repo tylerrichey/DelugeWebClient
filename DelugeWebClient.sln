@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelugeWebClient", "DelugeWebClient\DelugeWebClient.csproj", "{25DEC62A-581F-417D-A4EA-D1CEB17FCB7B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelugeWebClient.Test", "DelugeWebClient.Test\DelugeWebClient.Test.csproj", "{B2A01E5D-C0D2-40A0-B264-80E39C398419}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25DEC62A-581F-417D-A4EA-D1CEB17FCB7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25DEC62A-581F-417D-A4EA-D1CEB17FCB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25DEC62A-581F-417D-A4EA-D1CEB17FCB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25DEC62A-581F-417D-A4EA-D1CEB17FCB7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A01E5D-C0D2-40A0-B264-80E39C398419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A01E5D-C0D2-40A0-B264-80E39C398419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A01E5D-C0D2-40A0-B264-80E39C398419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A01E5D-C0D2-40A0-B264-80E39C398419}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55502B3E-0088-4398-AC99-A23D4CD96891}
+	EndGlobalSection
+EndGlobal

@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace SilverCard.Deluge
+namespace Deluge.Model
 {
     public class DelugeConfig
     {

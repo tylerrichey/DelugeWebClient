@@ -1,7 +1,7 @@
 ﻿using System;
 using Newtonsoft.Json;
 
-namespace SilverCard.Deluge
+namespace Deluge.Model
 {
     public class TorrentOptions
     {

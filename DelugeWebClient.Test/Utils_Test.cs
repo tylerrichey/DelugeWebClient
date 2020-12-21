@@ -1,8 +1,7 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Newtonsoft.Json;
 
-namespace SilverCard.Deluge.Test
+namespace Deluge.Test
 {
     [TestClass]
     public class Utils_Test
@@ -21,7 +20,7 @@ namespace SilverCard.Deluge.Test
         public void GetAllJsonPropertyFromType_Test()
         {
             var propNames = Utils.GetAllJsonPropertyFromType(typeof(TestClass));
-            CollectionAssert.AreEqual(new String[] { "propa", "propb" }, propNames);
+            CollectionAssert.AreEqual(new string[] { "propa", "propb" }, propNames);
         }
     }
 }

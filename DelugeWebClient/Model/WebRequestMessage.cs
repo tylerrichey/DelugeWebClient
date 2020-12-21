@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace SilverCard.Deluge
+namespace Deluge.Model
 {
     internal class WebRequestMessage
     {

@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System;
 
-namespace SilverCard.Deluge
+namespace Deluge.Model
 {
     internal class WebResponseError
     {
